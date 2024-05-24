@@ -7,8 +7,6 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jimbox4?color=594329&style=for-the-badge&labelColor=df9221&logo=star"/></a>
    </p>
 
-<br />
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimbox4&show_icons=true&theme=radical)
 
 <br />
