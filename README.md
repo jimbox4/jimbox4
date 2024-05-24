@@ -9,10 +9,9 @@
    </p>
 
 ## I'm Unity Developer
-- 💪 I like writing code
-- 🎉 I love playing video games, watching movies and participating board games
-- 🥅 I'm constantly learning new things
-- 🤹🏽 I'm always looking for new friends and contacts
+- 🧪 I like writing code
+- 🎮 I love playing video games
+- ♾ I'm constantly learning new things
 
 <br />
 
