@@ -36,12 +36,5 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanamon&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fanamon&show_icons=true&theme=tokyonight" />
-</details>
-
 [discord]: https://discordapp.com/users/314144045763002369/
 [telegram]: https://t.me/jimbox4/
