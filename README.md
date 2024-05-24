@@ -5,7 +5,7 @@
       <a href="https://github.com/Fanamon?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jimbox4?color=49587f&labelColor=00c499&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Fanamon?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jimbox4?color=492c05&style=for-the-badge&labelColor=e19220&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jimbox4?color=e19220&style=for-the-badge&labelColor=492c05&logo=star"/></a>
    </p>
 
 ## I'm Unity Developer
