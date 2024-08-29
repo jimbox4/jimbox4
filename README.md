@@ -1,4 +1,4 @@
-### Hi everyone, I'm Alexander 🦊
+### Hi everyone, I'm Alexandr 🦊
 
    <p align="left">
       <a href="https://github.com/jimbox4?tab=followers">
